@@ -27,8 +27,6 @@ This project aims to create a cloud-based sign language translator for the deaf 
 ## Installation
 1. Clone the repository: `git clone https://github.com/AddagallaSaiTharun/Sequence2Sequence.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Configure AWS credentials and services.
-4. Train the Seq2Seq model using provided data.
-5. Set up Unreal Engine 5 project for animation generation.
-6. Implement Flask for the backend API.
-7. Implement Websockets for communication.
+3. Set up Unreal Engine 5 project for animation generation.
+4. Implement Flask for the backend API.
+5. Implement Websockets for communication.
